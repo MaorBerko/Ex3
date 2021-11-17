@@ -111,4 +111,5 @@ summary(DEresults)
 ##### 6. 
 ```{r}
 library(compcodeR)
+
 ```
